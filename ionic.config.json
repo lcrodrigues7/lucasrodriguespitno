@@ -1,0 +1,7 @@
+{
+  "name": "form 2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
